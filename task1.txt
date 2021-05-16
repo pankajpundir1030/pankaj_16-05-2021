@@ -1,0 +1,11 @@
+Step1. Created a githup public project with Pankaj_16-05-2021
+
+Step2. Create a Linux VM on Azure free tier Account and install git on that VM.
+
+Step3 Create index.html file having hello word. 
+
+Step4 git add that index file and git commit and git push 
+
+Step5 we can git pull https://github.com/pankajpundir1030/pankaj_16-05-2021.git
+
+
