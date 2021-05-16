@@ -1,0 +1,7 @@
+1. To know all resource in current subscription 
+
+Get-AzureRmResource | ft
+
+2. To know All resources in a perticular rg grp 
+
+Get-AzureRmResource -ResourceGroupName "RG-Name" | ft
