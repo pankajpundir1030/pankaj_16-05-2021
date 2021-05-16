@@ -1,0 +1,9 @@
+1. Create Azure DevOps project
+
+2. Create an organisation>Project
+
+3. link from github
+
+4. create pipline
+
+5 create release 
